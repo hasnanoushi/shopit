@@ -1,0 +1,9 @@
+.custom-sidebar {
+  width: 16.6667%;
+}
+
+@media (max-width: 768px) {
+  .custom-sidebar {
+    width: 34%;
+  }
+}
